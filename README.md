@@ -1,1 +1,1 @@
-this is repo for simple input and output on java
+this is a repo for simple input and output on java
